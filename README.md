@@ -13,4 +13,7 @@ Welcome to my personal Python learning repository! This is a structured collecti
 *   To develop clean, well-documented, and efficient code.
 *   To build a portfolio that demonstrates growth and capability.
 
+## Exercise Organization
+For details on how exercises are numbered and organized, see the [README in the fundamentals folder](fundamentals/README.md).
+
 *Feedback and suggestions are always welcome!*
